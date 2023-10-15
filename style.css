@@ -153,6 +153,7 @@ ul li {
 aside > p{
     text-indent:18px;
     text-align:justify;
+    padding:0 10px 0 10px;
 }
 
 aside > p >a{
