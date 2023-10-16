@@ -43,9 +43,7 @@ header > p{
 
 nav{
     background-color:#1C633B;
-    padding:10px;
-    width:100%;
-    
+    padding:10px 0 10px 10px;
 }
 
 nav > a{
@@ -183,7 +181,6 @@ p > span{
 
 footer{
     background-color:#1A5C38;
-    width:100%;
     margin-top:20px;
 }
 
